@@ -1,0 +1,2 @@
+background color: #580000
+foreground color: #c5c8c6
