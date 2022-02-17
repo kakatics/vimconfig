@@ -8,4 +8,13 @@ set expandtab
 set smartindent
 set autoindent
 set showmatch
+
 colorscheme rockets-away
+
+let g:netrw_liststyle = 3
+let g:netrw_banner = 0
+
+set cursorline
+hi CursorLine term=bold cterm=bold
+
+set ignorecase
